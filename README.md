@@ -1,5 +1,3 @@
-# dice-gambling-simulator
-
 # Dice Gambling Simulator
 
 This program simulates a gambling scenario between two gamblers using dice rolls. It includes classes for Dice and Gambler, as well as methods to facilitate the gambling process.
